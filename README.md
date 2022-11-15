@@ -1,0 +1,2 @@
+# CompetenciasSQL
+Treinos em SQL
