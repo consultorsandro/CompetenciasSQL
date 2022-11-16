@@ -1,0 +1,7 @@
+CREATE TABELA Tab_Teste
+(
+    ID INTEGER, 
+    NOME VARCHAR (50),
+    DIA DATE, 
+    PRIMARY KEY (ID)
+)
