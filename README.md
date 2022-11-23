@@ -1,2 +1,2 @@
 # CompetenciasSQL
-Treinos em SQL
+Treinos em SQL no FIREBIRD
